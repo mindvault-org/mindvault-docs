@@ -5,3 +5,6 @@
 
 ## Architecture
 <img width="929" height="596" alt="image" src="https://github.com/user-attachments/assets/ca7b315f-e254-4195-a33b-24246f00ca19" />
+
+## Obsidian like
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/07af90f4-1528-43cc-9cbd-41d38150da57" />
